@@ -1,0 +1,6 @@
+Dentro del metodo principal llamo a el procedimiento, enviamos el arreglo y 
+posteriormente, creamos un ciclo para recorrer las filas del arreglo y 
+creo otro que nos ayude a recorrer las columnas, dentro de este ciclo, usamos
+un condicional para que respecto a la posicion de la fila y la columna ver cual 
+dato es par y guardarlo en una sola cadena, para para presentarla 
+posteriormente, y verificar que 
