@@ -1,0 +1,5 @@
+El problema no me resulto dificil, tuve un problema para analizar que datos del
+arreglo eran pares, y pude resolverlo viendo talleres y clases anteriores; 
+concidero como parte mas importante la anidacion de los ciclos for, pues esto
+nos ayuda a recorrer el arreglo y aprendi de este ejercicio a usar correctamente
+la comparacion de numeros pares e impares. 
