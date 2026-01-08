@@ -71,7 +71,6 @@ public class Problema2 {
 
     public static void obtenerReporte(String[] viviendas, double[] gastoAnual) {
         String cadenaFinal = "";
-
         for (int i = 0; i < 10; i++) {
             cadenaFinal = cadenaFinal + String.format("Vivienda: %s - Consumo "
                     + "Total: %.2f\n", viviendas[i], gastoAnual[i]);

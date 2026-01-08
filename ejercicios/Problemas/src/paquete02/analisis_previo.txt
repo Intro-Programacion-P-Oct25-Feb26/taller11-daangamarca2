@@ -1,0 +1,8 @@
+Empiezo llamando a una funcion que me servira para ir guardando las 10 viviendas
+en un arreglo unidimensional usando un ciclo , y lo retorno para guardarlo en 
+una variable, asi mismo creo otra funcion para pedir y guardar el gasto anual en
+la cual uso dos ciclos para ir almacenando los datos segun el numero de viviendas
+con respecto al numero de meses, luego en otra funcion calculo el gasto anual asi
+mismo usando dos ciclos anidados para ir guardando los valores con respecto al mes 
+correspondiente, finalmente, creo un procedimiento en el cual uso un ciclo para 
+almacenar en una cadena los datos de la vivienda y el gasto anual y presentarla.

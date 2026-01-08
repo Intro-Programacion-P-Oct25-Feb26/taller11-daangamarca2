@@ -1,0 +1,4 @@
+Me resulto dificil el envio de parametros y los retornos, no cometi algun error,
+pero si se me hace muy importante el saber enviar los parametros pues sin estos
+no es posible solucionar la problematica, y aprendi de este ejercicio a declarar
+de manera correcta los parametros.
