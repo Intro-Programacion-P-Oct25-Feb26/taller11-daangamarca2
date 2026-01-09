@@ -1,0 +1,7 @@
+La parte que mas me costo comprender dentro de este programa fue la presentacion
+de la matriz, pues solo estaba usando una funcion, y para poder resolverlo cree
+un procedimiento que usando ciclos anidados iba presentando los datos segun su 
+posicion en fila y columna luego de almacenarse en una cadena; como parte mas 
+importante considero a la limpieza de cadena, pues sin hacer esto, se me iba 
+acumulando todos los datos y daba un error en la presentacion, aprendi de este
+ejercicio que puedo usar variables para asignarles valores cambiantes.
