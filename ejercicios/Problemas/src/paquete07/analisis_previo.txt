@@ -1,0 +1,5 @@
+Para resolver este problema en el metodo principal invoco a la funcion que me 
+ayudara a ingresar las ciudades del Ecuador e irlas guardando en el arreglo 
+luego llamo al procedimiento en el cual solo voy a presentar los valores del 
+arreglo que tengan 4 o 5 caracteres usando un ciclo para ir verificando posicion 
+por posicion. 
