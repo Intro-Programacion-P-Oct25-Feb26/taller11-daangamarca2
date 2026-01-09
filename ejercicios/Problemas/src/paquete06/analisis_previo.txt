@@ -1,0 +1,6 @@
+Para solucionar este problema tengo que hacer uso de dos funciones, la primera
+para calcular la media aritmetica a la cual la llamo desde el metodo principal
+y le envio el arreglo, y la segunda que me servira para calcular la desviación 
+estándar, a la cual le envio el arreglo principal y el arreglo retornado de la 
+funcion para calcular la media aritmetica y finalmente hago uso de un 
+procedimiento para presentar los nuevos arreglos creados de las funciones.
