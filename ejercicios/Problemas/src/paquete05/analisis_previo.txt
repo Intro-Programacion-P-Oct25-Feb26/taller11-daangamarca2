@@ -1,0 +1,5 @@
+Dentro del metodo principal declaro los arreglos y posterior a esto invoco a la
+funcion a la cual le envio como parametros los dos arreglos, y dentro de esta,
+uso un ciclo para recorrer los arreglos e irlos sumando y almacenando 
+respecto a cada posicion del arreglo, para asi retornar lo almacenado y 
+presentarlo posteriormente. 

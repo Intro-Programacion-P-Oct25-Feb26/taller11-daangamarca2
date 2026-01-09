@@ -1,0 +1,7 @@
+Ninguna parte se me hizo dificil de comprender, pero si cometi un error al no 
+utilizar condicionales, para conocer que procedimiento de calculo quiere hacer
+el usuario, asi que use condicionales anidados, para poder asi dar solucion; 
+concidero asi mismo como parte mas importante cada una de las funciones, pues 
+dentro de  estas se realizan procesos distintos respecto a lo que se quiere 
+hacer, ademas este ejercio me ayudo a comprender de mejor manera el tipo de 
+dato que se retorna. 
