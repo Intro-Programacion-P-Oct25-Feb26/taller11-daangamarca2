@@ -1,0 +1,6 @@
+Necesito crear inicialmente una varible que verifique que procedimiento quiero
+realizar y con respecto a este creo un condicional que segun el valor ingresado
+realice uno de los tres procedimientos; dentro de cada uno de estos, pido los 
+datos necesarios para poder realizar el calculo de cada uno y posteriormente
+usarlos para presentar directamente los valores ingresados con su resultado, 
+usaremos 3 procedimientos. 

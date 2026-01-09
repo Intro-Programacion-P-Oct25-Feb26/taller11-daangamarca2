@@ -1,0 +1,8 @@
+Para el primer ejercicio, voy a hacer un menú que pida nombre y cédula para 
+mandarlos a dos procesos distintos: uno que multiplique el gasto de luz y otro
+que saque el 2% del valor de la casa. En cada uno voy a mostrar un mensaje que
+junte los datos del cliente con el total que debe pagar. Para el segundo 
+ejercicio, haré una función que reciba dos tablas de números y sume los valores
+que están en el mismo lugar, uno por uno. Ese resultado lo guardaré en una tabla
+nueva y la devolveré para que se pueda ver al final. Todo se basa en pasar 
+información de un lado a otro y hacer las cuentas correctas.

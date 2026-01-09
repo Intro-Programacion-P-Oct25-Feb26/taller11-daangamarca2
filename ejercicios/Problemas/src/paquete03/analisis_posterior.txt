@@ -1,0 +1,5 @@
+Ninguna parte me resulto complicada, tuve un error pues estaba haciendo funciones
+y no procedimientos como pedia el problema, asi que solo cambie eso, presentando
+el resultado en vez de retornarlo; como parte mas importante considero seria el
+condicional pues sin este, no seria posible definir que tipo de proceso voy a 
+realizar, ni a que figura geometrica pertenece. 
