@@ -1,0 +1,6 @@
+La parte que mas me costo comprender de este problema, fue la de obtener la 
+desviacion, pues al existir dos tipos de desviaciones, no sabia cual usar, asi
+que investigue para saber cual es la mas acorde al proble y asi darle solucion; 
+concidero que la parte mas importante es la de calcular la media, pues sin esta 
+no puedo hacer el otro calulo, y aprendi de este ejercicio sobre la desviacion 
+estandar poblacional o muestral. 
